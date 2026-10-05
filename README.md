@@ -1,1 +1,36 @@
-IyBIaSB0aGVyZSwgSSdtIFNldGlhd2FuIFJhbmRoeSDwn5GLCgoqKlByYW5hdGEgS29tcHV0ZXIgQWhsaSBQZXJ0YW1hIChQUFBLKSoqIOKAlCBEZXBhcnRtZW50IG9mIENvbW11bmljYXRpb24sIEluZm9ybWF0aWNzLCBTdGF0aXN0aWNzIGFuZCBDcnlwdG9ncmFwaHkgKERpc2tvbWluZm8pLCBIdWx1IFN1bmdhaSBUZW5nYWgsIEluZG9uZXNpYS4KCkkgZGVzaWduIGFuZCBidWlsZCBkaWdpdGFsIGdvdmVybm1lbnQgcHJvZHVjdHM6IG9wZW4tZGF0YSBwb3J0YWxzLCBBSS1hc3Npc3RlZCBwdWJsaWMgZGF0YSBzZXJ2aWNlcywgbGVnYWwgZG9jdW1lbnRhdGlvbiBzeXN0ZW1zLCBhbmQgbW9iaWxlIGFwcHMgdXNlZCBieSBjaXRpemVucyBldmVyeSBkYXkuCgojIyDwn4+GIEF3YXJkLXdpbm5pbmcgd29yawoKKipbT3BlbkRhdGEgSFNUXShodHRwczovL29wZW5kYXRhLmhzdGthYi5nby5pZCkqKiDigJQgTGVhZCBkZXZlbG9wZXIgb2YgdGhlIHJlZ2VuY3kncyBwdWJsaWMgb3Blbi1kYXRhIHBvcnRhbCBhbmQgaXRzIEFuZHJvaWQgJiBpT1MgYXBwcyAoR29vZ2xlIFBsYXkgwrcgQXBwIFN0b3JlKS4KU3VibWl0dGVkIGFzIHRoZSAqIk9uZSBEYXRhIEFJIEhTVCIqIGlubm92YXRpb24sIGl0IHdvbiAqKvCfpYggMm5kIEJlc3Qg4oCUIEthbHNlbCBJbm5vdmF0aW9uIEF3YXJkIDIwMjYqKiAoU291dGggS2FsaW1hbnRhbiBQcm92aW5jZSkuCgojIyDwn5qAIEZlYXR1cmVkIHByb2plY3RzCgp8IFByb2plY3QgfCBXaGF0IGl0IGlzIHwKfC0tLXwtLS18CnwgW09wZW5EYXRhIEhTVF0oaHR0cHM6Ly9vcGVuZGF0YS5oc3RrYWIuZ28uaWQpIHwgT3Blbi1kYXRhIHBvcnRhbCArIEFuZHJvaWQvaU9TIGFwcHMgd2l0aCBBSSBkYXRhIGFzc2lzdGFudCB8CnwgW0pESUggSFNUXShodHRwczovL2pkaWguaHN0a2FiLmdvLmlkKSB8IExlZ2FsIGRvY3VtZW50YXRpb24gJiBpbmZvcm1hdGlvbiBuZXR3b3JrIHBvcnRhbCAoZnVsbC1zdGFjaykgfAp8ICoqTXVyYWthdGEgRGlnaSoqIHwgR29vZ2xlIFNTTyAoT0F1dGggMi4wKSArIFNpZ24gaW4gd2l0aCBBcHBsZSBpbnRlZ3JhdGlvbiB8CnwgKipQcm9qZWN0IERUUyBEZXYqKiB8IFdlYkF1dGhuIC8gcGFzc2tleSBiaW9tZXRyaWMgbG9naW4gZm9yIGEgZGV2ZWxvcGVyIHBvcnRhbCB8CgojIyDwn5ug77iPIFRlY2ggc3RhY2sKCiFbVHlwZVNjcmlwdF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9UeXBlU2NyaXB0LTMxNzhDNj9zdHlsZT1mbGF0JmxvZ289dHlwZXNjcmlwdCZsb2dvQ29sb3I9d2hpdGUpCiFbSmF2YVNjcmlwdF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9KYXZhU2NyaXB0LUY3REYxRT9zdHlsZT1mbGF0JmxvZ289amF2YXNjcmlwdCZsb2dvQ29sb3I9YmxhY2spCiFbU3ZlbHRlXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1N2ZWx0ZS1GRjNFMDA/c3R5bGU9ZmxhdCZsb2dvPXN2ZWx0ZSZsb2dvQ29sb3I9d2hpdGUpCiFbTmV4dC5qc10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9OZXh0LmpzLTAwMDAwMD9zdHlsZT1mbGF0JmxvZ289bmV4dGRvdGpzJmxvZ29Db2xvcj13aGl0ZSkKIVtCdW5dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvQnVuLTAwMDAwMD9zdHlsZT1mbGF0JmxvZ289YnVuJmxvZ29Db2xvcj13aGl0ZSkKIVtSdXN0XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1J1c3QtMDAwMDAwP3N0eWxlPWZsYXQmbG9nbz1ydXN0JmxvZ29Db2xvcj13aGl0ZSkKIVtHb10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Hby0wMEFERDg/c3R5bGU9ZmxhdCZsb2dvPWdvJmxvZ29Db2xvcj13aGl0ZSkKIVtTdXBhYmFzZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9TdXBhYmFzZS0zRUNGOEU/c3R5bGU9ZmxhdCZsb2dvPXN1cGFiYXNlJmxvZ29Db2xvcj13aGl0ZSkKIVtHaXRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR2l0LUYwNTAzMj9zdHlsZT1mbGF0JmxvZ289Z2l0JmxvZ29Db2xvcj13aGl0ZSkKCiMjIPCfk6sgRmluZCBtZQoKWyFbTGlua2VkSW5dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTGlua2VkSW4tMEE2NkMyP3N0eWxlPWZsYXQmbG9nbz1saW5rZWRpbiZsb2dvQ29sb3I9d2hpdGUpXShodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vc2V0aWF3YW4tcmFuZGh5LTU3NzM0MzE3NSkKWyFbRW1haWxdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvRW1haWwtRUE0MzM1P3N0eWxlPWZsYXQmbG9nbz1nbWFpbCZsb2dvQ29sb3I9d2hpdGUpXShtYWlsdG86c3JhbmRoeS5kaXNrb21pbmZvQGdtYWlsLmNvbSkK
+# Hi there, I'm Setiawan Randhy 👋
+
+**Pranata Komputer Ahli Pertama (PPPK)** — Department of Communication, Informatics, Statistics and Cryptography (Diskominfo), Hulu Sungai Tengah, Indonesia.
+
+I design and build digital government products: open-data portals, AI-assisted public data services, legal documentation systems, and mobile apps used by citizens every day.
+
+## 🏆 Award-winning work
+
+**[OpenData HST](https://opendata.hstkab.go.id)** — Lead developer of the regency's public open-data portal and its Android & iOS apps (Google Play · App Store).
+Submitted as the *"One Data AI HST"* innovation, it won **🥈 2nd Best — Kalsel Innovation Award 2026** (South Kalimantan Province).
+
+## 🚀 Featured projects
+
+| Project | What it is |
+|---|---|
+| [OpenData HST](https://opendata.hstkab.go.id) | Open-data portal + Android/iOS apps with AI data assistant |
+| [JDIH HST](https://jdih.hstkab.go.id) | Legal documentation & information network portal (full-stack) |
+| **Murakata Digi** | Google SSO (OAuth 2.0) + Sign in with Apple integration |
+| **Project DTS Dev** | WebAuthn / passkey biometric login for a developer portal |
+
+## 🛠️ Tech stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📫 Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/setiawan-randhy-577343175)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:srandhy.diskominfo@gmail.com)
